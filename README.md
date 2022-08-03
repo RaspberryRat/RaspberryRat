@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SmellyCosby
+- 👋 Hi, 
 - 👀 I’m interested in learning how to become a web developer.
 - 🌱 I’m currently learning javascript/html/css.
 - 💞️ I’m looking to collaborate on simiple websites.
